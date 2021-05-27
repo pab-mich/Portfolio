@@ -305,12 +305,13 @@ header:hover {
 /*change this part */
 .image {
   overflow: hidden;
-  height: 240px;
+  height: 220px;
 }
 
 footer {
   background-color: var(--darkgray);
   height: 80px;
+  width: 100vw;
 }
 
 .footer {
